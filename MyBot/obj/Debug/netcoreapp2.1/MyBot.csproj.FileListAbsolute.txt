@@ -1,0 +1,12 @@
+C:\Users\Юрий\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.deps.json
+C:\Users\Юрий\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.runtimeconfig.json
+C:\Users\Юрий\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.runtimeconfig.dev.json
+C:\Users\Юрий\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.dll
+C:\Users\Юрий\source\repos\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.pdb
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.dll
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.pdb
+C:\Users\Юрий\source\repos\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.genruntimeconfig.cache
